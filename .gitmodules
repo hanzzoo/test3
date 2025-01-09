@@ -1,0 +1,3 @@
+[submodule "client/api/apispec/uniop-design"]
+	path = client/api/apispec/uniop-design
+	url = git@github.com:tamac-io/uniop-design.git

@@ -1,0 +1,12 @@
+
+baseURL: "https://api-front-d09b91fd-c1bc-448c-9052-7a93d8131d68.sdk-lab.qmonus.net"
+production: false
+# コンテンツ設定
+content: 
+  ## title
+  title: "GUI"
+  ## metaタグ設定
+  meta:
+    description: "test deploy"
+  base: "./client/.output/public/"
+  main: "index.html"
